@@ -131,6 +131,7 @@ header{
 
 #navigation{
 	background: #111;
+	font-size: 10px;
 }
 .nav-wrap {
 	position: fixed;
@@ -140,7 +141,7 @@ header{
 }
 
 .logo {
-	height: 76px;
+	height: 60px;
 	display: table;
 	text-align: left;
 }
